@@ -576,6 +576,9 @@ color: var(--accent-color);
     margin-right: 10px;
     fill: currentColor;
 } */
+
+
+/* footer */
 .social-block {
     margin-left: 32px;
     margin-right: 32px;
@@ -696,6 +699,15 @@ footer .social-link:focus {
     letter-spacing: 0.03em;
     text-align: left;
 }
+
+
+
+
+
+/* copied */
+
+
+
 .backdrop {
     position: fixed;
     top: 0;
